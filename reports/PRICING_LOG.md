@@ -25,3 +25,10 @@
 - **Skipped – renamed products (3):** millionaire corn curls, Fine Rabea Leaf Tea 400, toffo deemah salted caramel.
 - **Failed – product suspended/draft in Shopify (11):** Al Ameed coffee range (see `price_change_2026-10-23_failed.json`).
 - Group % used: 22/18/16/15/2 → weighted average increase ≈ 16.5% (target 17.92%).
+
+## 2026-10-24 – Deleted products (owner request)
+The 11 Al Ameed coffee products that were in DRAFT/suspended state were permanently deleted from Shopify:
+alameed turkish coffee without cardamom 250g; Al Ameed turkish Light Coffee without cardamom 250g; Al Ameed turkish black Coffee 250g;
+Al Ameed turkish black Coffee without cardamom 250g; alameed coffee french 250g; alameed coffee french hazelnut 250g; Al Ameed turkish Light Coffee 250g;
+alameed turkish coffee 250g; Al Ameed Decaf without cardamom Coffee 250g; alameed coffee french mistka 250g; alameed coffee french orangina 250g.
+(Remaining stock at deletion: 9 units in total.)
